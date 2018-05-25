@@ -1,0 +1,9 @@
+#myVideo {
+  position: absolute;
+  z-index: -100;
+  min-width: 100%;
+  min-height: 90%;
+}
+#scoreboard {
+  display: none;
+}
